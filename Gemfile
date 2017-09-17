@@ -37,6 +37,9 @@ gem 'sdoc', '~> 0.4.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'rails-controller-testing', '~> 1.0', '>= 1.0.2'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
+gem 'faker', '~> 1.8', '>= 1.8.4'
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+gem 'bootstrap-will_paginate', '~> 1.0'
 
 
 group :development, :test do
