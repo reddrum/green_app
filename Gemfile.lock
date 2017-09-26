@@ -444,7 +444,7 @@ DEPENDENCIES
   bootstrap-will_paginate (~> 1.0)
   byebug
   capybara (~> 2.13)
-  carrierwave (~> 1.1)
+  carrierwave (= 1.1.0)
   coffee-rails (~> 4.2)
   faker (~> 1.8, >= 1.8.4)
   fog (~> 1.41)

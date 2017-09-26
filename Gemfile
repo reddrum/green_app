@@ -38,7 +38,7 @@ gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 gem 'faker', '~> 1.8', '>= 1.8.4'
 gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 gem 'bootstrap-will_paginate', '~> 1.0'
-gem 'carrierwave', '~> 1.1'
+gem 'carrierwave',             '1.1.0'
 gem 'mini_magick', '~> 4.8'
 gem 'fog', '~> 1.41'
 
